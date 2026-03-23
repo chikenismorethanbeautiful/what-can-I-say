@@ -37,7 +37,7 @@ git clone https://github.com/karpathy/nanoGPT.git
 cd nanoGPT
 ```
 
-![image-20260323085127924](image\2026-03-23 085125.png)
+![image-20260323085127924](image\2026-03-23085125.png)
 
 ### 2. 准备数据集
 
