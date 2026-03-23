@@ -37,7 +37,7 @@ git clone https://github.com/karpathy/nanoGPT.git
 cd nanoGPT
 ```
 
-![image-20260323085127924](.\image\2026-03-23085125.png)
+![b](.\image\b.png)
 
 ### 2. 准备数据集
 
@@ -84,7 +84,7 @@ python train.py config/train_poemtext_char.py --device=cpu --compile=False --eva
 python sample.py --out_dir=out-poemtext-char
 ```
 
-![屏幕截图 2026-03-23 092212](image\2026-03-23 092212.png)
+![f](.\image\a.png)
 
 **CPU 推理**
 
@@ -108,9 +108,10 @@ python sample.py --out_dir=out-poemtext-char --device=cpu
 
   训练截图与效果:
 
-  ![屏幕截图 2026-03-19 111400](image\2026-03-19 111400.png)
+  ![f](.\image\f.png)
 
-  ![屏幕截图 2026-03-19 143520](image\2026-03-19 143520.png)
+  ![d](.\image\d.png)
+  
 
 ---
 
@@ -160,7 +161,7 @@ python sample.py --out_dir=out-poemtext-char --device=cpu
 
 - 超参数修改后效果
 
-  ![屏幕截图 2026-03-19 141132](image\2026-03-19 141132.png)
+  ![c](.\image\c.png)
 
 ---
 
