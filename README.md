@@ -31,7 +31,7 @@ git clone https:\\github.com\karpathy\nanoGPT.git
 cd nanoGPT
 ```
 
-![b](.\image\b.png)
+![b](https://github.com/chikenismorethanbeautiful/what-can-I-say/blob/main/image/b.png)
 
 ### 2. 准备数据集
 
@@ -78,7 +78,7 @@ python train.py config\train_poemtext_char.py --device=cpu --compile=False --eva
 python sample.py --out_dir=out-poemtext-char
 ```
 
-![f](.\image\a.png)
+![f](https://github.com/chikenismorethanbeautiful/what-can-I-say/blob/main/image/a.png)
 
 **CPU 推理**
 
@@ -102,9 +102,9 @@ python sample.py --out_dir=out-poemtext-char --device=cpu
 
   训练截图与效果:
 
-  ![f](.\image\f.png)
+  ![f](https://github.com/chikenismorethanbeautiful/what-can-I-say/blob/main/image/f.png)
 
-  ![d](.\image\d.png)
+  ![d](https://github.com/chikenismorethanbeautiful/what-can-I-say/blob/main/image/d.png)
   
 
 ---
@@ -155,7 +155,7 @@ python sample.py --out_dir=out-poemtext-char --device=cpu
 
 - 超参数修改后效果
 
-  ![c](.\image\c.png)
+  ![c](https://github.com/chikenismorethanbeautiful/what-can-I-say/blob/main/image/c.png)
 
 ---
 
